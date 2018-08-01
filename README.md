@@ -1,5 +1,7 @@
 # 📈EEL7052 - Sistemas Lineares
 
+> "O homem está sempre disposto a negar tudo aquilo que não compreende." - **Blaise Pascal**
+
 ## ***Repositório da Disciplina EEL7052 - Sistemas Lineares***
 
 **Curso**: Engenharia Eletrônica - Universidade Federal de Santa Catarina (UFSC), Florianópolis, SC, Brasil
